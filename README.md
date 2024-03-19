@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xin Ding
+- 👋 Hi, I’m Xin Ding, I am an on-going Ph.D. student at Purdue University
 - 👀 I’m interested in modelling and development of the next generation compressor and related thermodynamic systems
 - 🌱 I’m currently learning Physics-Informed Neural Networks & [PDSim](https://github.com/ibell/pdsim/tree/710b8615a7d9dd67afff9c8d1bf608a9eb97efe8)
 - 💞️ I’m looking to collaborate on modelling/development jobs on electric natural refrigerant compressor, vehicle thermal mangement systems, data center cooling systems, ultra-low temperature refrigeration systems, commercial/residential building heating ventilation air-conditioning systems, and other interesting topics!
