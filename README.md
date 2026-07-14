@@ -1,7 +1,7 @@
 <div align="center">
 
 # Xin Ding
-### Ph.D. Candidate @ Herrick Laboratories, Purdue University  
+### Ph.D. From Herrick Laboratories, Purdue University  
 **Thermodynamic Systems · Compressors · Machine Learning · Research Software Engineering**
 
 [![Email](https://img.shields.io/badge/Email-ding245%40purdue.edu-black?style=flat-square&logo=gmail)](mailto:ding245@purdue.edu)
@@ -21,7 +21,7 @@
 
 ## About Me
 
-I am a Ph.D. candidate in Mechanical Engineering at **Purdue University** working at the intersection of:
+I am a Ph.D. in Mechanical Engineering at **Purdue University** working at the intersection of:
 
 - **thermodynamic system modeling**
 - **next-generation compressor development**
